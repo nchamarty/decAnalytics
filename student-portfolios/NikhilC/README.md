@@ -17,4 +17,3 @@
 ### Personal Photo 1
 
 ![My hike at Angels Landing at Zion National Park](IMG_4487.png)
-
