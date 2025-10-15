@@ -15,7 +15,7 @@
 ## 🖼️ Portfolio Images
 
 ### Personal Photo 1
-![My hike at Angels Landing at Zion National Park](/Users/nchamarty/Documents/DecAnalyticsCourse/decAnalytics/challenges/01-Tech-Setup-Challenge/IMG_4487.png)
+![My hike at Angels Landing at Zion National Park](IMG_4487.png)
 
 
 
