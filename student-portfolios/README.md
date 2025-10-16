@@ -28,6 +28,7 @@ This README is automatically generated and updated when changes are made to stud
 | Sobina | Sobina | You'll always find me singing when I'm driving lik...<br>I've recently got obsessed with 5Ks. | [View Portfolio](Sobina/README.md) | N/A | <img src="Sobina/sobina.jpg" alt="Sobina" title="Sobina" width="150"> |
 | SumeetTayal | Sumeet | I love archaeological historical buildings because...<br>I like to play and watch cricket. | [View Portfolio](SumeetTayal/README.md) | N/A | <img src="SumeetTayal/nahargarh-fort-jaipur.jpeg" alt="Nahargarh Fort stands on the edge of the Aravalli Hills, overlooking the city of Jaipur in the Indian state of Rajasthan. Along with Amer Fort and Jaigarh Fort, Nahargarh once formed a strong defence ring for the city." title="Nahargarh Fort stands on the edge of the Aravalli Hills, overlooking the city of Jaipur in the Indian state of Rajasthan. Along with Amer Fort and Jaigarh Fort, Nahargarh once formed a strong defence ring for the city." width="150"> |
 | VicT | Venkat | <br>Traveling with Family | [View Portfolio](VicT/README.md) | N/A | <img src="VicT/Venkat.jpg" alt="Venkat with Family" title="Venkat with Family" width="150"> |
+| Vijaykumar-Alladi | Vijay | Loves formula 1<br>Plays chess | [View Portfolio](Vijaykumar-Alladi/README.md) | N/A | No images |
 | VikramG | Vikram | I love running and at one point was doing half mar...<br>I like travelling and just relaxing doing nothing! | [View Portfolio](VikramG/README.md) | N/A | <img src="VikramG/IMG_2286.JPEG" alt="Me and my coworker playing tennis" title="Me and my coworker playing tennis" width="150"><img src="VikramG/vikram_family.JPEG" alt="Vikram - With family Going to I think Florida" title="Vikram - With family Going to I think Florida" width="150"> |
 | ashandilya48 | Anupam | I am a very bad karaoke singer<br>I am foolishly optimistic person | [View Portfolio](ashandilya48/README.md) | N/A | <img src="ashandilya48/IMG_0172.jpg" alt="Description" title="Description" width="150"> |
 | mrbabu | Rohit M | sports entusiast, teetotaler and intovert<br>One of the best cricket player in DE | [View Portfolio](mrbabu/README.md) | N/A | <img src="mrbabu/Photo1.jpeg" alt="Memo" title="Memo" width="150"><img src="mrbabu/Photo2.jpeg" alt="Beautiful family" title="Beautiful family" width="150"> |
@@ -67,4 +68,4 @@ This README is automatically generated and updated when changes are made to stud
 This README is automatically updated via GitHub Actions whenever any `README.md` file in the student-portfolios folder (or its subfolders) is modified.
 
 ---
-*Last updated: %Y->- ffc5a7cef92d4da6651f1a46d530e89f933ee682:%M:HEAD*
+*Last updated: %Y->- 1b01e5721160f111e3b5c69a950de135bc46d9a8:%M:HEAD*
