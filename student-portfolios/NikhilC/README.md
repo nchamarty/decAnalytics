@@ -16,4 +16,4 @@
 
 ### Personal Photo 1
 
-![My hike at Angels Landing at Zion National Park](./hiking_photo.png)# Force refresh Thu Oct 16 18:10:13 EDT 2025
+![My hike at Angels Landing at Zion National Park](./hiking_photo.png)
