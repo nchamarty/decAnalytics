@@ -26,6 +26,7 @@ This README is automatically generated and updated when changes are made to stud
 | RohitT | RohitT | I value time with family, especially my daughter<br>I believe small improvements every day make a big ... | [View Portfolio](RohitT/README.md) | N/A | <img src="RohitT/./holiday_photo.jpg" alt="Holiday Photo" title="Holiday Photo" width="150"> |
 | SidJena | Sid | My favorite band growing up was The Backstreet Boy...<br>I play a lot of sports. | [View Portfolio](SidJena/README.md) | N/A | <img src="SidJena/MyTeam.jpeg" alt="MySportTeam" title="MySportTeam" width="150"> |
 | Sobina | Sobina | You'll always find me singing when I'm driving lik...<br>I've recently got obsessed with 5Ks. | [View Portfolio](Sobina/README.md) | N/A | <img src="Sobina/sobina.jpg" alt="Sobina" title="Sobina" width="150"> |
+| SreoshiC | Sreoshi Chowdhuri | I love to travel and explore new places<br>I like art and painting. | [View Portfolio](SreoshiC/README.md) | N/A | <img src="SreoshiC/20241027_153222_Image.jpg" alt="Travel Photo" title="Travel Photo" width="150"> |
 | SumeetTayal | Sumeet | I love archaeological historical buildings because...<br>I like to play and watch cricket. | [View Portfolio](SumeetTayal/README.md) | N/A | <img src="SumeetTayal/nahargarh-fort-jaipur.jpeg" alt="Nahargarh Fort stands on the edge of the Aravalli Hills, overlooking the city of Jaipur in the Indian state of Rajasthan. Along with Amer Fort and Jaigarh Fort, Nahargarh once formed a strong defence ring for the city." title="Nahargarh Fort stands on the edge of the Aravalli Hills, overlooking the city of Jaipur in the Indian state of Rajasthan. Along with Amer Fort and Jaigarh Fort, Nahargarh once formed a strong defence ring for the city." width="150"> |
 | VicT | Venkat | <br>Traveling with Family | [View Portfolio](VicT/README.md) | N/A | <img src="VicT/Venkat.jpg" alt="Venkat with Family" title="Venkat with Family" width="150"> |
 | Vijaykumar-Alladi | Vijay | Loves formula 1<br>Plays chess | [View Portfolio](Vijaykumar-Alladi/README.md) | N/A | No images |
@@ -68,4 +69,4 @@ This README is automatically generated and updated when changes are made to stud
 This README is automatically updated via GitHub Actions whenever any `README.md` file in the student-portfolios folder (or its subfolders) is modified.
 
 ---
-*Last updated: %Y->- 1b01e5721160f111e3b5c69a950de135bc46d9a8:%M:HEAD*
+*Last updated: %Y->- (HEAD -> main, origin/main) 2a6bf75fbdf990f7bf9debd1e9af0be8c68efa67:%M:HEAD*
